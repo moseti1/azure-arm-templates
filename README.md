@@ -1,2 +1,2 @@
 # azure-arm-templates
-Repository to guide ins the setting update Azure ARM Templates 
+Repository to guide in the setting update Azure ARM Templates 
